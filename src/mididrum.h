@@ -119,7 +119,9 @@ typedef enum {
     PS_RB_GUITAR,
     GUITARS,
 
-    WII_RB3_KEYBOARD
+    WII_RB3_KEYBOARD,
+    XB_RB3_KEYBOARD,
+    PS3_RB3_KEYBOARD
 }kit_types;
 
 //primary object for the system
